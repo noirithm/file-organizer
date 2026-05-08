@@ -1,4 +1,4 @@
-#Simple File Organizer
+# Simple File Organizer
 
 A Python script that automatically sorts files into folder by type.
 
